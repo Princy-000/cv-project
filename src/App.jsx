@@ -1,4 +1,5 @@
 import './App.css'
+import './styles/components.css'
 import GeneralInfo from './components/GeneralInfo'
 import Education from './components/Education'
 import Practical from './components/Practical'
